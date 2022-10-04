@@ -14,8 +14,8 @@
 
 ## Glossary ##
 * **Branch**: A new or separate version of the main repository.
-* **Clone**: A copy of the original repository in a new directory.
-* **Commit**: A snapshot of the repository at a specific point in time.
+* **Clone**: A full copy of a repository.
+* **Commit**: A 'savepoint' of the repository at a specific point in time.
 * **Fetch**: A command that downloads commits, files, and refs from a remote repository into your local repo.
 * **GIT**: A open source software for version control, used for source code management. 
 * **Github**: An online software development platform used for storing, tracking, and collaborating on software projects and sharing codes.
@@ -25,3 +25,11 @@
 * **Pull**: Fetch and download content from a remote repo to a local repo.
 * **Remote**: A Git repository that's hosted on the Internet.
 * **Repository**: Tracks and saves the history of all the changes made to the files in a Git project.
+
+### Reference list ###
+* https://www.w3schools.com/git
+* https://www.atlassian.com/git/tutorials
+* https://git-scm.com/
+* https://blog.hubspot.com/website/what-is-github-used-for
+* https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts#:~:text=Merge%20conflicts%20happen%20when%20you,branches%20and%20merge%20them%20automatically.
+* https://phoenixnap.com/kb/what-is-a-git-repository
